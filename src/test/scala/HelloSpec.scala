@@ -1,7 +1,7 @@
 import org.scalatest._
 
 class HelloSpec extends FlatSpec with Matchers {
-  "Hello" should "have tests" in {
-    true should be(true)
+  "Scala" should "be able to sum" in {
+    1+1 should be(2)
   }
 }

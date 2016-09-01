@@ -1,4 +1,4 @@
-name := """gameactors"""
+name := """scala-project-template"""
 
 version := "1.0"
 

@@ -1,5 +1,6 @@
-object Hello {
-  def main(args: Array[String]): Unit = {
-    println("Hello, world!")
-  }
+
+object Hello extends App {
+
+  println("Hello, world!")
+
 }
