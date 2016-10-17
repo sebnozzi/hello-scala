@@ -1,6 +1,10 @@
 
-object Hello extends App {
+object Hello {
 
-  println("Hello, world!")
+  def main(args: Array[String]):Unit = {
+    println("Hello, world!")
+  }
+
+  def sum(a:Int, b:Int) = a + b
 
 }
